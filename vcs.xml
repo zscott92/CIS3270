@@ -10,8 +10,15 @@
           <option name="url" value="https://github.com/Choff3/Airline-Reservation-Website.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Choff3/MyContactList.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\zscott\Downloads" />
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/.android/avd" />
   </component>
 </application>
